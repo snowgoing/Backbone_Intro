@@ -1,0 +1,20 @@
+h3 {
+	margin: 5px 0 5px 5px;
+	color: #E47399;
+}
+
+#listFilms {
+	width: 600px;
+	height: 400px;
+	border: 1px solid #E7E7E7;
+	font-size: 14px;
+	font-family: Arial;
+	background: black;
+	margin: 20px auto;
+	color: white;
+	padding-left: 10px;
+}
+
+span {
+	margin-left: 25px;
+}
